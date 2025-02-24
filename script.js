@@ -160,37 +160,37 @@ const songs = [
   {
     title: "N1NT3ND0",
     name: "ЧП",
-    source: "song-list/N1NT3ND0 - ЧП.mp3",
+    source: "N1NT3ND0 - ЧП.mp3",
   },
   {
     title: "N1NT3ND0",
     name: "Ламбада",
-    source: "song-list/N1NT3ND0 - Ламбада.mp3",
+    source: "N1NT3ND0 - Ламбада.mp3",
   },
   {
     title: "dj trippie flameboy",
     name: "Take The L",
-    source: "song-list/dj trippie flameboy - Take The L.mp3",
+    source: "dj trippie flameboy - Take The L.mp3",
   },
   {
     title: "Baby Melo",
     name: "Slappy Tap",
-    source: "song-list/Baby Melo - Slappy Tap.mp3",
+    source: "Baby Melo - Slappy Tap.mp3",
   },
   {
     title: "Jillzay",
     name: "Бар «2 лесбухи» speed up",
-    source: "song-list/литиумс - бар &quot;2 лесбухи&quot; speed up.mp3",
+    source: "литиумс - бар &quot;2 лесбухи&quot; speed up.mp3",
   },
   {
     title: "ICEGERGERT",
     name: "Гектор",
-    source: "song-list/ICEGERGERT - Гектор .mp3",
+    source: "ICEGERGERT - Гектор .mp3",
   },
   {
     title: "dj trippie flameboy",
     name: "Догги",
-    source: "song-list/Doss - догги.mp3",
+    source: "Doss - догги.mp3",
   },
 ];
 
