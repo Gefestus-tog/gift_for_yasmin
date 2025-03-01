@@ -82,7 +82,7 @@ window.addEventListener('resize', () => {
 const startDate = new Date(2012, 2, 6);
 function updateRelationshipTime() {
   const now = new Date();
-  let diffMs = now - startDate;
+  let diffMs =   now - startDate + 4*30*24*60*60*1000;
 
   const yearMs   = 365.25 * 24 * 60 * 60 * 1000;
   const weekMs   = 7 * 24 * 60 * 60 * 1000;
